@@ -1,0 +1,8 @@
+G:\ooplab2\pos\bin\Debug\pos.exe.config
+G:\ooplab2\pos\bin\Debug\pos.exe
+G:\ooplab2\pos\bin\Debug\pos.pdb
+G:\ooplab2\pos\obj\Debug\pos.csproj.AssemblyReference.cache
+G:\ooplab2\pos\obj\Debug\pos.csproj.SuggestedBindingRedirects.cache
+G:\ooplab2\pos\obj\Debug\pos.csproj.CoreCompileInputs.cache
+G:\ooplab2\pos\obj\Debug\pos.exe
+G:\ooplab2\pos\obj\Debug\pos.pdb

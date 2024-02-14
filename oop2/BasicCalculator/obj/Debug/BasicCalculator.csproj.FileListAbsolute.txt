@@ -1,0 +1,8 @@
+G:\ooplab2\BasicCalculator\bin\Debug\BasicCalculator.exe.config
+G:\ooplab2\BasicCalculator\bin\Debug\BasicCalculator.exe
+G:\ooplab2\BasicCalculator\bin\Debug\BasicCalculator.pdb
+G:\ooplab2\BasicCalculator\obj\Debug\BasicCalculator.csproj.AssemblyReference.cache
+G:\ooplab2\BasicCalculator\obj\Debug\BasicCalculator.csproj.SuggestedBindingRedirects.cache
+G:\ooplab2\BasicCalculator\obj\Debug\BasicCalculator.csproj.CoreCompileInputs.cache
+G:\ooplab2\BasicCalculator\obj\Debug\BasicCalculator.exe
+G:\ooplab2\BasicCalculator\obj\Debug\BasicCalculator.pdb
